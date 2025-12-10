@@ -1,0 +1,10 @@
+sentence-transformers
+faiss-cpu
+numpy
+flask
+flask-cors
+pymongo
+psycopg2-binary
+supabase
+firebase-admin
+requests
